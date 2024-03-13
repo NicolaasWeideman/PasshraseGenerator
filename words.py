@@ -1,3 +1,4 @@
+# SOURCE: https://www.espressoenglish.net/100-common-nouns-in-english/
 words = ["time",
 "year",
 "people",
